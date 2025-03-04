@@ -1,0 +1,40 @@
+{
+  "id": "e3566bc2-f056-47be-be73-f82175ae8fb7",
+  "name": "WP Label Printing",
+  "publisher": "World Pos Sdn Bhd",
+  "version": "1.0.0.22",
+  "brief": "",
+  "description": "WP Label Printing 20240924",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "publisher": "LS Retail",
+      "name": "LS Central",
+      "version": "24.1.0.306"
+    }  
+  ],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 59100,
+      "to": 59149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

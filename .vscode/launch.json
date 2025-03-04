@@ -19,6 +19,6 @@
             "tenant": "default",
             "usePublicURLFromServer": true,
             "schemaUpdateMode": "ForceSync"
-        }
+        }//ing
     ]
-}
+} 
